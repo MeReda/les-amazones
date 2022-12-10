@@ -24,7 +24,7 @@ section {
     background-size: 200vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    opacity: .1;
+    opacity: .2;
 }
 
 .h-100 {
@@ -39,8 +39,9 @@ section {
 }
 
 .section-title {
+    font-size: 2em;
     color: #e880ff;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .main-btn {
@@ -92,7 +93,7 @@ nav.navbar {
     height: 120px;
     background-color: #fff;
     border-radius: 15px;
-    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 35px 80px #65037b36;
     transition: 0.5s;
 }
 
@@ -109,7 +110,7 @@ nav.navbar {
     height: 80px;
     background-color: #fff;
     border-radius: 15px;
-    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 15px 50px #3e044b36;
     overflow: hidden;
     transition: .3s;
 }
