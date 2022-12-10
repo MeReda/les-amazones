@@ -38,6 +38,11 @@ section {
     box-shadow: none;
 }
 
+.section-title {
+    color: #e880ff;
+    font-weight: bold;
+}
+
 .main-btn {
     padding: .5rem 2rem;
     border-radius: 10rem;
@@ -58,7 +63,7 @@ section {
     padding: .3rem .8rem;
     border-radius: 10rem;
     border: none;
-    background-color: #beb9b9;
+    background-color: #ea96fd;
     color: white;
     font-weight: bold;
     transition: .3s;
@@ -75,7 +80,7 @@ section {
 
 /* start navbar */
 nav.navbar {
-    background-color: #FF808020;
+    background-color: #efa8ff;
 }
 /* end navbar */
 
